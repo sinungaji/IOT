@@ -4,4 +4,4 @@ Projek ini menggunakan beberapa perlengkapan yaitu:
 - LED 3 buah (merah, kuning, hijau)
 - Jumper male to male 4 buah
 
-Lihat sketsa pada folder LED
+Lihat sketsa pada folder LED SKETCH
