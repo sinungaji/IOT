@@ -1,6 +1,6 @@
 Tentang membuat Blynkserver mengukur kecahayaan dan suhu
 
-1. Java JDK terbaru
+1. Java JDK terbaru https://www.oracle.com/java/technologies/javase-downloads.html
 2. Download Server-0.41.14.jar 
 github: https://github.com/blynkkk/blynk-server/releases
 3. Buka Arduino include manage libary DHT11 dan Blynk
