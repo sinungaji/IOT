@@ -12,8 +12,17 @@ java -jar server.0.41.14.jar -dataFolder UTS
 dengan nama blynk
 6. buka url yang sudah didapatkan melalui cmd
 dapat admin email, dapat password
-7. buka token dalam url tersebut
+7. buka token dalam url cmd tersebut
 8. hubungkan dengan handphone app Blynk di playstore
 9. coding
 
 10. TOKEN : VIIc8LjyExOczCG1O6RBunpAYkOnvmlf
+
+Perlengkapan Hardware :
+- DHT11
+- Jumper male to male
+- Jumper female to female
+- LED FISIK 2 buah (MERAH, HIJAU)
+- ESP32
+- KABEL USB
+- LDR
